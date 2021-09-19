@@ -29,7 +29,7 @@ ROADMAP OF FUTURE IMPROVEMENTS
 ------------------------------
 1. Improve the look and feel.
 2. Remove the bug on the tag that displays the marks. Currently, since the tag is an h1 and the  original logic of random color from the assignment is left, on clicking the tag, it will change the color of it, leaving the button with a different background-color
-3. Disable a button once it has been clicked. Once a button has been filled, the players should not be allowed to re-click on them again. Hence, we can use the filled variable to disable the button as part og the onClick event.
+3. Disable a button once it has been clicked. Once a button has been filled, the players should not be allowed to re-click on them again. Hence, we can use the filled variable to disable the button as part of the onClick event.
 MAINTAINERS
 ------------
 This project is maintained by Miriam Bade.
